@@ -1,0 +1,8 @@
+{
+  "name": "sprachduo-hfu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HFU Web-Based Technologies group project — language tandem prototype",
+  "scripts": { "start": "node scripts/serve.cjs", "test": "node --test tests/*.test.cjs" },
+  "engines": { "node": ">=20" }
+}

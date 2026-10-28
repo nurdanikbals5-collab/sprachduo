@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "SprachDuo: Preview", "type": "shell", "command": "npm start", "isBackground": true, "problemMatcher": [], "presentation": { "reveal": "always" } },
+    { "label": "SprachDuo: Test", "type": "shell", "command": "npm test", "group": "test", "problemMatcher": [] }
+  ]
+}
